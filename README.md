@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I' Prasad Magi</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" alt="image" height="50%" width="50%" >
+<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" alt="image" height="100%" width="100%" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadmagi&label=Profile%20views&color=0e75b6&style=flat" alt="prasadmagi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadmagi" alt="prasadmagi" /></a> </p>
