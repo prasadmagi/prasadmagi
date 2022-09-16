@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadmagi" alt="prasadmagi" /></a> </p>
 
-- 🌱 I’m currently learning **Node and Express js**
+- 🌱 I’m currently learning **React and Redux**
 
 - 💬 Ask me about **Javscript, React and DSA**
 
